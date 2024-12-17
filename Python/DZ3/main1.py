@@ -1,4 +1,4 @@
-month = input()
+month = int(input())
 if month == 1:
   print("Январь")
 elif month == 2:
